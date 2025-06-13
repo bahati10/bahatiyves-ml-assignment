@@ -1,6 +1,16 @@
-# Titanic ML Assignment 🚢
+# ML Assignment 1 for AI (ML) & Big Data (Titanic)🚢
 
 This project is a full end-to-end data science pipeline on the Titanic dataset, following the structure required by the AI (ML) & Big Data assignment.
+
+#### - `UNIVERSITY OF KIGALI`
+
+#### 🧑‍💻 `AUTHOR`
+
+- `BAHATI YVES`
+- `2305000895`
+- `COMPUTER SCIENCE`
+
+---
 
 > Instructor: Lecturer. Victor Muvunyi  
 > Submission Deadline: June 14, 2025  
@@ -113,19 +123,19 @@ streamlit run app.py
 
 ### All dependencies are listed in requirements.txt, including:
 
-- pandas
+- `pandas`
 
-- seaborn
+- `seaborn`
 
-- matplotlib
+- `matplotlib`
 
-- scikit-learn
+- `scikit-learn`
 
-- ydata-profiling
+- `ydata-profiling`
 
-- streamlit
+- `streamlit`
 
-- joblib
+- `joblib`
 
 ### 📊 Sample Prediction
 
@@ -148,9 +158,3 @@ OR
 - Model saved as: titanic_model.pkl
 
 - Make sure these files are in the root directory when running the app.
-
-### 🧑‍💻 Author
-
-Bahati Yves
-ML Assignment for AI (ML) & Big Data
-June 2025

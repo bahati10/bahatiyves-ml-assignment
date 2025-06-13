@@ -21,16 +21,16 @@ Build a machine learning pipeline from scratch using Python to predict survival 
 
 ## 📁 Project Structure
 
-├── notebook.ipynb # Jupyter notebook with all tasks
-├── app.py # Streamlit app for prediction (Task 4)
-| ├── data # Cleaned Titanic dataset
-| ├── cleaned_data.csv # Cleaned Titanic dataset
-├── titanic.csv # Titanic dataset
-├── titanic_model.pkl # Trained RandomForest model
-├── model_columns.pkl # Feature list used in model
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-└── .gitignore # Files to ignore in version control
+- ├── notebook.ipynb # Jupyter notebook with all tasks
+- ├── app.py # Streamlit app for prediction (Task 4)
+- | ├── data # Cleaned Titanic dataset
+- | ├── cleaned_data.csv # Cleaned Titanic dataset
+- ├── titanic.csv # Titanic dataset
+- ├── titanic_model.pkl # Trained RandomForest model
+- ├── model_columns.pkl # Feature list used in model
+- ├── requirements.txt # Python dependencies
+- ├── README.md # Project documentation
+- └── .gitignore # Files to ignore in version control
 
 ---
 
